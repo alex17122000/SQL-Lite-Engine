@@ -1,0 +1,17 @@
+CREATE TABLE students1 (id,number,9999,1),(name,varchar,256,''),(dob,date,2020-12-31,1900-01-01)
+CREATE TABLE students2 (id2,number2,9999,1),(name2,varchar2,256,''),(dob2,date2,2020-12-31,1900-01-01)
+INSERT INTO students1 VALUES(1,alex_stancu,2000-12-17),(8,8888,888)
+INSERT INTO students2 VALUES(2,alex_stancu2,3000-12-17)
+CREATE TABLE students3 (id3,number3,9999,3),(name3,varchar3,256,''),(dob3,date2,2020-12-31,1900-01-01)
+INSERT INTO students3 VALUES(3,alex_stancu3,300,4000-12-17)
+CREATE TABLE students4 (id4,number2,9999,1),(name4,varchar2,256,''),(dob4,date2,2020-12-31,1900-01-01)
+DROP TABLE students2
+CREATE TABLE students5 (id,integer,1000,0),(nume,text,128,''),(grupa,text,50,'1000')
+INSERT INTO students5 VALUES(1,"John","1001")
+INSERT INTO students5 VALUES(2,"Alice","1001")
+CREATE TABLE students6 (id,integer,1000,0),(nume,text, 128,''),(grupa,text,50,'1000')
+CREATE TABLE students7 (id,integer,1000),(nume,text,''),(grupa,text,'1000')
+CREATE TABLE students8 (id,integer,1000),(age,integer,23),(height,integer,160)
+DISPLAY TABLE students1
+DISPLAY TABLE students5
+DROP TABLE students5

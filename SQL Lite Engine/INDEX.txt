@@ -1,0 +1,5 @@
+1. Cautam in tables.txt numele tabelului
+2. Daca il gasim, deschidem fisierul tabelului respectiv
+3. Cautam aici cuvantul respectiv si ii salvam pozitia (index)   
+4. Ne ducem in fisierul binar la pozitia respectiva (index)si stocam in alt fisier
+ binar (+afisare) valoarea

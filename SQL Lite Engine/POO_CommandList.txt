@@ -1,0 +1,13 @@
+ CREATE TABLE   v
+ CREATE INDEX  !
+ DROP TABLE   v
+ DROP INDEX   !
+ DISPLAY TABLE  v
+
+
+ INSERT  v
+ SELECT   
+ UPDATE 
+ DELETE  v??  !
+
+23 decembrie
